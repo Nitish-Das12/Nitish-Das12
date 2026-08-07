@@ -3,13 +3,13 @@
 A passionate Data Analyst || SQL & Python Enthusiast || Data Storyteller from India
 Email Me 👉 ✉️ nihardas8638835185@gmail.com For Project or Anything Else. 😊😊
 
-🔭 I'm currently working on: Analyzing sales & business data to generate actionable insights
-🌱 I'm currently learning: Power BI, Advanced SQL, Machine Learning
-👯 I'm looking to collaborate on: Data visualization and dashboard projects
-🤔 I'm looking for help with: Advanced Python for data automation
-💬 Ask me about: Data Analysis, SQL, Excel, Python, Power BI/Tableau
-😄 Pronouns: He/Him
-⚡ Fun fact: I turn messy data into meaningful stories
+🔭 I'm currently working on: Analyzing sales & business data to generate actionable insights<br>
+🌱 I'm currently learning: Power BI, Advanced SQL, Machine Learning<br>
+👯 I'm looking to collaborate on: Data visualization and dashboard projects<br>
+🤔 I'm looking for help with: Advanced Python for data automation<br><br>
+💬 Ask me about: Data Analysis, SQL, Excel, Python, Power BI/Tableau<br>
+😄 Pronouns: He/Him<br>
+⚡ Fun fact: I turn messy data into meaningful stories<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/6001934636) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitishkumardas-da) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nihardas8638835185@gmail.com) 
