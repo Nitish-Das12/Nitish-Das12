@@ -33,7 +33,7 @@ Email Me 👉 ✉️ nihardas8638835185@gmail.com For Project or Anything Else. 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nitish-Das12&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=Nitish-Das12&repo=your-repo-name)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Nitish-Das12&icon=0&color=0)](https://visitcount.itsvg.in)
