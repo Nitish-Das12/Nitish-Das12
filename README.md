@@ -1,4 +1,4 @@
-###💫 Hi 👋, I'm Nitish Kumar Das
+##💫 Hi 👋, I'm Nitish Kumar Das
 
 A passionate Data Analyst || SQL & Python Enthusiast || Data Storyteller from India<br>
 Email Me 👉 ✉️ nihardas8638835185@gmail.com For Project or Anything Else. 😊😊
@@ -11,7 +11,7 @@ Email Me 👉 ✉️ nihardas8638835185@gmail.com For Project or Anything Else. 
 😄 Pronouns: He/Him<br>
 ⚡ Fun fact: I turn messy data into meaningful stories<br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/6001934636) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitishkumardas-da) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nihardas8638835185@gmail.com) 
 
 # 💻 Tech Stack:
