@@ -1,3 +1,8 @@
+<img width="1600" height="415" alt="github_banner_with_photo" src="https://github.com/user-attachments/assets/e6a96bd9-133b-432d-84f6-23fb2ad7651d" />
+
+---
+[![](https://komarev.com/ghpvc/?username=Nitish-Das12&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## 💫 Hi 👋, I'm Nitish Kumar Das
 
 A passionate Data Analyst || SQL & Python Enthusiast || Data Storyteller from India<br>
@@ -38,5 +43,3 @@ Email Me 👉 ✉️ nihardas8638835185@gmail.com For Project or Anything Else. 
 ![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=Nitish-Das12&repo=Parking-Management-System-4&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Nitish-Das12&icon=0&color=0)](https://visitcount.itsvg.in)
-
