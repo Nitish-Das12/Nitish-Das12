@@ -1,12 +1,12 @@
 💫 Hi 👋, I'm Nitish Kumar Das
 
-A passionate Data Analyst || SQL & Python Enthusiast || Data Storyteller from India
+A passionate Data Analyst || SQL & Python Enthusiast || Data Storyteller from India<br>
 Email Me 👉 ✉️ nihardas8638835185@gmail.com For Project or Anything Else. 😊😊
 
 🔭 I'm currently working on: Analyzing sales & business data to generate actionable insights<br>
 🌱 I'm currently learning: Power BI, Advanced SQL, Machine Learning<br>
 👯 I'm looking to collaborate on: Data visualization and dashboard projects<br>
-🤔 I'm looking for help with: Advanced Python for data automation<br><br>
+🤔 I'm looking for help with: Advanced Python for data automation<br>
 💬 Ask me about: Data Analysis, SQL, Excel, Python, Power BI/Tableau<br>
 😄 Pronouns: He/Him<br>
 ⚡ Fun fact: I turn messy data into meaningful stories<br>
